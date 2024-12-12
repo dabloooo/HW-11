@@ -1,0 +1,13 @@
+.foto-container{
+    display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px;
+}
+.foto{
+    background-color: #e6f7ff;
+  border: 1px solid #ccc;
+  width: 200px;
+  padding: 10px;
+  text-align: center;
+}
